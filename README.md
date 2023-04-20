@@ -13,16 +13,16 @@
 <br>
 <div>
 <div >
-- A passionate Full-stack web developer <br/>
-- Playing CTF's at spare time <br/>
-- Currently learning Web3 Development by Self <br/>
-- Personal website [UnderConstuction](#) <br/>
-- [[My resume]](https://europa.eu/europass/eportfolio/screen/share/9a1be631-908c-4900-92ac-9ce357355c70?lang=it) <br/>
+	<p align="justified">
+A passionate Full-stack web developer currently working and studyng in the university of Milan started as on C# now moving on full stack MERN, in my free time i started trying learning web3 developement, always trying to learn new things and improve my skills.
+	</p>
 </div>
-
+	<a href="/images/myw3schoolsimage.jpg" download>
+<img src="https://img.shields.io/badge/gmail:  CV%20Download-%23EA4335.svg?style=for-the-badge&logo=docusign&logoColor=white" t=mail style="margin-bottom: 5px;" />
+		</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" dysplay="inline"><b> Skills</b>
 <br>
 
 <p align="center">
