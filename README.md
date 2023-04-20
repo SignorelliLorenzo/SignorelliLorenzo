@@ -8,21 +8,26 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 <div>
-<div >
-	<p align="justified">
-A passionate Full-stack web developer currently working and studyng in the university of Milan started as on C# now moving on full stack MERN, in my free time i started trying learning web3 developement, always trying to learn new things and improve my skills.
+	<p align="justify">
+Hi there! My name is Lorenzo and I am a highly motivated Full-stack web developer. Currently, I am working and studying at the University of Milan, where I am pursuing my passion for programming and web development. I started my journey as a C# developer and then I transitioned to full-stack development using the MERN stack.
+<br>
+Throughout my career, I have developed a strong foundation in programming concepts, algorithms, data structures, and software development principles. My experience and expertise enable me to design and develop scalable, robust, and efficient web applications.
+<br>
+In my free time, I am always trying to learn new technologies and explore new opportunities in web development. Recently, I have developed a keen interest in web3 development, which involves building decentralized applications using blockchain technology. I am fascinated by the potential of this technology to disrupt industries and create new possibilities for developers.
+<br>
+I enjoy staying up-to-date with the latest technologies and frameworks to keep my skills relevant in today's fast-paced industry. I believe that continuous learning and improvement are essential for success in any field, and I am committed to keeping up with the latest developments in the web development landscape.
 	</p>
-</div>
-	<a href="/images/myw3schoolsimage.jpg" download>
-<img src="https://img.shields.io/badge/gmail:  CV%20Download-%23EA4335.svg?style=for-the-badge&logo=docusign&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	<a href="/Cv/Signorelli_CV" download>
+<img src="https://img.shields.io/badge/CV:  Download-%23EA4335.svg?style=for-the-badge&logo=docusign&logoColor=white" t=mail style="margin-bottom: 5px;" />
 		</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" dysplay="inline"><b> Skills</b>
+</div>	
+	
+
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" ><b> Skills</b>
 <br>
 
 <p align="center">
