@@ -19,7 +19,7 @@ In my free time, I am always trying to learn new technologies and explore new op
 I enjoy staying up-to-date with the latest technologies and frameworks to keep my skills relevant in today's fast-paced industry. I believe that continuous learning and improvement are essential for success in any field, and I am committed to keeping up with the latest developments in the web development landscape.
 	</p>
 	<p align="center">
-	<a href="/Cv/Signorelli_CV" download> <img src="https://img.shields.io/badge/CV:  Download-000000.svg?style=for-the-badge&logo=docusign&logoColor=white" t=mail style="margin-bottom: 5px;" /> </a> <a href="cyberizesolutions.it" target="_blank">
+	<a href="https://github.com/SignorelliLorenzo/SignorelliLorenzo/blob/c604dcb061a7a8d5d8c4951a6a1166243c663d37/CV-Lorenzo%20Signorelli.pdf" target="_blank"> <img src="https://img.shields.io/badge/CV:  Download-000000.svg?style=for-the-badge&logo=docusign&logoColor=white" t=mail style="margin-bottom: 5px;" /> </a> <a href="https://cyberizesolutions.it/" target="_blank">
 		<img src="https://img.shields.io/badge/WEB:  cyberizesolutions.it-4a5cb5.svg?style=for-the-badge&logo=icloud&logoColor=white" t=mail style="margin-bottom: 5px;" />
 		</a>
 		</p>
