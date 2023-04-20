@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Coding+is+a+style+of+life..&hearts;++;Full-stack+Web+Developer,;Computer+Science+Student,;Arch+Newbie,;Active+Learner/Researcher,;Love+to+solve+problems..<3">
 </p>
 
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
@@ -19,9 +18,11 @@ In my free time, I am always trying to learn new technologies and explore new op
 <br>
 I enjoy staying up-to-date with the latest technologies and frameworks to keep my skills relevant in today's fast-paced industry. I believe that continuous learning and improvement are essential for success in any field, and I am committed to keeping up with the latest developments in the web development landscape.
 	</p>
-	<a href="/Cv/Signorelli_CV" download>
-<img src="https://img.shields.io/badge/CV:  Download-%23EA4335.svg?style=for-the-badge&logo=docusign&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	<p align="center">
+	<a href="/Cv/Signorelli_CV" download> <img src="https://img.shields.io/badge/CV:  Download-000000.svg?style=for-the-badge&logo=docusign&logoColor=white" t=mail style="margin-bottom: 5px;" /> </a> <a href="cyberizesolutions.it" target="_blank">
+		<img src="https://img.shields.io/badge/WEB:  cyberizesolutions.it-4a5cb5.svg?style=for-the-badge&logo=icloud&logoColor=white" t=mail style="margin-bottom: 5px;" />
 		</a>
+		</p>
 </div>	
 	
 
