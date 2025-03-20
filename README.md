@@ -72,8 +72,8 @@ I'm always eager to **learn new technologies** and **explore innovative solution
 
 ## 📫 Let's Connect!
 
-<a href="https://github.com/SignorelliLorenzo" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=GitHub style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/lorenzo-signorelli-4b3625273" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=LinkedIn style="margin-bottom: 5px;"/>
 </a>
 <a href="https://twitter.com/LorenzoSignore3" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=Twitter style="margin-bottom: 5px;"/>
